@@ -181,3 +181,11 @@ Please note: Firmware versions 4.3.1 and 4.3.0 were pulled from circulation by D
 |4.0.2|[Download  ⤓](https://github.com/dhomas1/DroboApps/releases/download/5N2Firmware/Drobo-5N2-firmware-4.0.2.zip)|[Download  ⤓](https://github.com/dhomas1/DroboApps/releases/download/5N2Firmware/Drobo-5N2-release-notes-firmware-4.0.2.pdf)|
 |4.3.1|[Download  ⤓](https://github.com/dhomas1/DroboApps/releases/download/5N2Firmware/Drobo-5N2-firmware-4.3.1.zip)|[Download  ⤓](https://github.com/dhomas1/DroboApps/releases/download/5N2Firmware/Drobo-5N2-release-notes-firmware-4.3.1.pdf)|
 |4.3.0|[Download  ⤓](https://github.com/dhomas1/DroboApps/releases/download/5N2Firmware/Drobo-5N2-firmware-4.3.0.zip)|[Download  ⤓](https://github.com/dhomas1/DroboApps/releases/download/5N2Firmware/Drobo-5N2-release-notes-firmware-4.3.0.pdf)|
+
+### Drobo 8D
+
+[Drobo 8D User Guide](https://github.com/dhomas1/DroboApps/releases/download/8DFirmware/Drobo-8D-user-guide-en.pdf)
+
+|Version|Link|Release Notes|
+|---|------|------|
+|4.2.3|[Download  ⤓](https://github.com/dhomas1/DroboApps/releases/download/8DFirmware/Drobo-8D-firmware-4.2.3.zip)|[Download  ⤓](https://github.com/dhomas1/DroboApps/releases/download/8DFirmware/Drobo-8D-release-notes-firmware-4.2.3.pdf)|
