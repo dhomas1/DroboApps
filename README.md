@@ -238,3 +238,13 @@ Please note: Similarly to the Drobo 5N & 5N2, firmware versions 4.3.1 and 4.3.0 
 |4.3.1|[Download  ⤓](https://github.com/dhomas1/DroboApps/releases/download/B810NFirmware/Drobo-B810n-firmware-4.3.1.zip)|[Download  ⤓](https://github.com/dhomas1/DroboApps/releases/download/B810NFirmware/Drobo-B810n-release-notes-firmware-4.3.1.pdf)|
 |4.3.0|[Download  ⤓](https://github.com/dhomas1/DroboApps/releases/download/B810NFirmware/Drobo-B810n-firmware-4.3.0.zip)|[Download  ⤓](https://github.com/dhomas1/DroboApps/releases/download/B810NFirmware/Drobo-B810n-release-notes-firmware-4.3.0.pdf)|
 
+### Drobo B1200i
+
+[Install Guide for the ATTO iSCSI initiator](https://github.com/dhomas1/DroboApps/releases/download/B1200iFirmware/Using-ATTO-iSCSI-with-Drobo.pdf)
+
+|Version|Link|Release Notes|
+|---|------|------|
+|1.3.7|[Download  ⤓](https://github.com/dhomas1/DroboApps/releases/download/B1200iFirmware/Drobo-B1200i-firmware-1.3.7.zip)|[Download  ⤓](https://github.com/dhomas1/DroboApps/releases/download/B1200iFirmware/Drobo-B1200i-release-notes-firmware-1.3.7.pdf)|
+|1.2.1|-|[Download  ⤓](https://github.com/dhomas1/DroboApps/releases/download/B1200iFirmware/Drobo-B1200i-release-notes-firmware-1.2.1.pdf)|
+|1.2.0|[Download  ⤓](https://github.com/dhomas1/DroboApps/releases/download/B1200iFirmware/Drobo-B1200i-firmware-1.2.0.zip)|[Download  ⤓](https://github.com/dhomas1/DroboApps/releases/download/B1200iFirmware/Drobo-B1200i-release-notes-firmware-1.2.0.pdf)|
+|1.1.4|-|[Download  ⤓](https://github.com/dhomas1/DroboApps/releases/download/B1200iFirmware/Drobo-B1200i-release-notes-firmware-1.1.4.pdf)|
