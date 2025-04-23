@@ -222,3 +222,19 @@ Please note: Firmware version 2.0.6 was sourced from a site other than Drobo's. 
 |1.3.3|[Download  ⤓](https://github.com/dhomas1/DroboApps/releases/download/B810iFirmware/Drobo-B810i-firmware-1.3.3.zip)|[Download  ⤓](https://github.com/dhomas1/DroboApps/releases/download/B810iFirmware/Drobo-B810i-release-notes-firmware-1.3.3.pdf)|
 |1.3.1|[Download  ⤓](https://github.com/dhomas1/DroboApps/releases/download/B810iFirmware/Drobo-B810i-firmware-1.3.1.zip)|[Download  ⤓](https://github.com/dhomas1/DroboApps/releases/download/B810iFirmware/Drobo-B810i-release-notes-firmware-1.3.1.pdf)|
 |2.0.6|[Download  ⤓](https://github.com/dhomas1/DroboApps/releases/download/B810iFirmware/Drobo-B810i-firmware-2.0.6.zip)|-|
+
+### Drobo B810N
+
+[Drobo B810N User Guide](https://github.com/dhomas1/DroboApps/releases/download/B810NFirmware/Drobo-B810n-getting-started-guide-en.pdf)
+
+Please note: Similarly to the Drobo 5N & 5N2, firmware versions 4.3.1 and 4.3.0 may have been pulled from circulation by Drobo engineers. It is recommended to use the last known good firmware, 4.2.2
+
+
+|Version|Link|Release Notes|
+|---|------|------|
+|4.2.2|[Download  ⤓](https://github.com/dhomas1/DroboApps/releases/download/B810NFirmware/Drobo-B810n-firmware-4.2.2.zip)|[Download  ⤓](https://github.com/dhomas1/DroboApps/releases/download/B810NFirmware/Drobo-B810n-release-notes-firmware-4.2.2.pdf)|
+|3.5.6|[Download  ⤓](https://github.com/dhomas1/DroboApps/releases/download/B810NFirmware/Drobo-B810n-firmware-3.5.6.zip)|[Download  ⤓](https://github.com/dhomas1/DroboApps/releases/download/B810NFirmware/Drobo-B810n-release-notes-firmware-3.5.6.pdf)|
+|3.5.3|[Download  ⤓](https://github.com/dhomas1/DroboApps/releases/download/B810NFirmware/Drobo-B810n-firmware-3.5.3.zip)|[Download  ⤓](https://github.com/dhomas1/DroboApps/releases/download/B810NFirmware/Drobo-B810n-release-notes-firmware-3.5.3.pdf)|
+|4.3.1|[Download  ⤓](https://github.com/dhomas1/DroboApps/releases/download/B810NFirmware/Drobo-B810n-firmware-4.3.1.zip)|[Download  ⤓](https://github.com/dhomas1/DroboApps/releases/download/B810NFirmware/Drobo-B810n-release-notes-firmware-4.3.1.pdf)|
+|4.3.0|[Download  ⤓](https://github.com/dhomas1/DroboApps/releases/download/B810NFirmware/Drobo-B810n-firmware-4.3.0.zip)|[Download  ⤓](https://github.com/dhomas1/DroboApps/releases/download/B810NFirmware/Drobo-B810n-release-notes-firmware-4.3.0.pdf)|
+
