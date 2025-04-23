@@ -189,3 +189,11 @@ Please note: Firmware versions 4.3.1 and 4.3.0 were pulled from circulation by D
 |Version|Link|Release Notes|
 |---|------|------|
 |4.2.3|[Download  ⤓](https://github.com/dhomas1/DroboApps/releases/download/8DFirmware/Drobo-8D-firmware-4.2.3.zip)|[Download  ⤓](https://github.com/dhomas1/DroboApps/releases/download/8DFirmware/Drobo-8D-release-notes-firmware-4.2.3.pdf)|
+
+### Drobo B800FS & Drobo ProFS
+
+|Version|Link|Release Notes|
+|---|------|------|
+|2.1.8|[Download  ⤓](https://github.com/dhomas1/DroboApps/releases/download/B800FS-ProFSFirmware/Drobo-B800fs-ProFS-firmware-2.1.8.zip)|[Download  ⤓](https://github.com/dhomas1/DroboApps/releases/download/B800FS-ProFSFirmware/Drobo-B800fs-ProFS-Release-Notes-firmware-2.1.8.pdf)|
+|2.1.7|-|[Download  ⤓](https://github.com/dhomas1/DroboApps/releases/download/B800FS-ProFSFirmware/Drobo-B800fs-ProFS-Release-Notes-firmware-2.1.7.pdf)|
+|2.1.6|[Download  ⤓](https://github.com/dhomas1/DroboApps/releases/download/B800FS-ProFSFirmware/Drobo-B800fs-ProFS-firmware-2.1.6.zip)|[Download  ⤓](https://github.com/dhomas1/DroboApps/releases/download/B800FS-ProFSFirmware/Drobo-B800fs-ProFS-Release-Notes-firmware-2.1.6.pdf)|
