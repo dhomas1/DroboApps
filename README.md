@@ -122,3 +122,11 @@ These are all the versions of Drobo Dashboard for Windows and Mac I could find a
 |3.2.0|[Download  ⤓](https://github.com/dhomas1/DroboApps/releases/download/MiniFirmware/Drobo-Mini-firmware-3.2.0.zip)|[Download  ⤓](https://github.com/dhomas1/DroboApps/releases/download/MiniFirmware/Drobo-Mini-release-notes-firmware-3.2.0.pdf)|
 |3.1.1|[Download  ⤓](https://github.com/dhomas1/DroboApps/releases/download/MiniFirmware/Drobo-Mini-firmware-3.1.1.zip)|[Download  ⤓](https://github.com/dhomas1/DroboApps/releases/download/MiniFirmware/Drobo-Mini-release-notes-firmware-3.1.1.pdf)|
 |3.0.10|[Download  ⤓](https://github.com/dhomas1/DroboApps/releases/download/MiniFirmware/Drobo-Mini-firmware-3.0.10.zip)|[Download  ⤓](https://github.com/dhomas1/DroboApps/releases/download/MiniFirmware/Drobo-Mini-release-notes-firmware-3.0.10.pdf)|
+
+### Drobo 5C
+|Version|Link|Release Notes|
+|---|------|------|
+|4.2.3|[Download  ⤓](https://github.com/dhomas1/DroboApps/releases/download/5CFirmware/Drobo-5C-firmware-4.2.3.zip)|[Download  ⤓](https://github.com/dhomas1/DroboApps/releases/download/5CFirmware/Drobo-5C-release-notes-firmware-4.2.3.pdf)|
+|4.2.1|-|[Download  ⤓](https://github.com/dhomas1/DroboApps/releases/download/5CFirmware/Drobo-5C-release-notes-firmware-4.2.1.pdf)|
+|3.5.5|-|[Download  ⤓](https://github.com/dhomas1/DroboApps/releases/download/5CFirmware/Drobo-5C-release-notes-firmware-3.5.5.pdf)|
+|3.5.3|-|[Download  ⤓](https://github.com/dhomas1/DroboApps/releases/download/5CFirmware/Drobo-5C-release-notes-firmware-3.5.3.pdf)|
