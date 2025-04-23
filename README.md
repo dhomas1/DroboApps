@@ -137,3 +137,12 @@ These are all the versions of Drobo Dashboard for Windows and Mac I could find a
 |4.2.3|[Download  ⤓](https://github.com/dhomas1/DroboApps/releases/download/5DFirmware/Drobo-5D-firmware-4.2.3.zip)|[Download  ⤓](https://github.com/dhomas1/DroboApps/releases/download/5DFirmware/Drobo-5D-release-notes-firmware-4.2.3.pdf)|
 |4.2.1|[Download  ⤓](https://github.com/dhomas1/DroboApps/releases/download/5DFirmware/Drobo-5D-firmware-4.2.1.zip)|-|
 |4.1.3|[Download  ⤓](https://github.com/dhomas1/DroboApps/releases/download/5DFirmware/Drobo-5D-firmware-4.1.3.zip)|[Download  ⤓](https://github.com/dhomas1/DroboApps/releases/download/5DFirmware/Drobo-5D-release-notes-firmware-4.1.3.pdf)|
+
+### Drobo 5D3
+[Drobo 5D3 User Guide](https://github.com/dhomas1/DroboApps/releases/download/5D3Firmware/Drobo-5D3-user-guide.pdf)
+
+|Version|Link|Release Notes|
+|---|------|------|
+|4.2.3|[Download  ⤓](https://github.com/dhomas1/DroboApps/releases/download/5D3Firmware/Drobo-5D3-firmware-4.2.3.zip)|[Download  ⤓](https://github.com/dhomas1/DroboApps/releases/download/5D3Firmware/Drobo-5D3-release-notes-firmware-4.2.3.pdf)|
+|4.2.1|[Download  ⤓](https://github.com/dhomas1/DroboApps/releases/download/5D3Firmware/Drobo-5D3-firmware-4.2.1.zip)|-|
+|4.1.4|-|[Download  ⤓](https://github.com/dhomas1/DroboApps/releases/download/5D3Firmware/Drobo-5D3-release-notes-firmware-4.1.4.pdf)|
