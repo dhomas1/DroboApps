@@ -254,3 +254,9 @@ Please note: Similarly to the Drobo 5N & 5N2, firmware versions 4.3.1 and 4.3.0 
 |Version|Link|Release Notes|
 |---|------|------|
 |1.2.7|[Download  ⤓](https://github.com/dhomas1/DroboApps/releases/download/DroboFSFirmware/Drobo-FS-firmware-1.2.7.zip)|[Download  ⤓](https://github.com/dhomas1/DroboApps/releases/download/DroboFSFirmware/Drobo-FS-release-notes-firmware-1.2.7.pdf)|
+
+### DroboPro
+
+|Version|Link|Release Notes|
+|---|------|------|
+|1.2.3|[Download  ⤓](https://github.com/dhomas1/DroboApps/releases/download/DroboProFirmware/Drobo-Pro-firmware-1.2.3.zip)|[Download  ⤓](https://github.com/dhomas1/DroboApps/releases/download/DroboProFirmware/Drobo-Pro-release-notes-firmware-1.2.3.pdf)|
