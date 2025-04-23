@@ -197,3 +197,12 @@ Please note: Firmware versions 4.3.1 and 4.3.0 were pulled from circulation by D
 |2.1.8|[Download  ⤓](https://github.com/dhomas1/DroboApps/releases/download/B800FS-ProFSFirmware/Drobo-B800fs-ProFS-firmware-2.1.8.zip)|[Download  ⤓](https://github.com/dhomas1/DroboApps/releases/download/B800FS-ProFSFirmware/Drobo-B800fs-ProFS-Release-Notes-firmware-2.1.8.pdf)|
 |2.1.7|-|[Download  ⤓](https://github.com/dhomas1/DroboApps/releases/download/B800FS-ProFSFirmware/Drobo-B800fs-ProFS-Release-Notes-firmware-2.1.7.pdf)|
 |2.1.6|[Download  ⤓](https://github.com/dhomas1/DroboApps/releases/download/B800FS-ProFSFirmware/Drobo-B800fs-ProFS-firmware-2.1.6.zip)|[Download  ⤓](https://github.com/dhomas1/DroboApps/releases/download/B800FS-ProFSFirmware/Drobo-B800fs-ProFS-Release-Notes-firmware-2.1.6.pdf)|
+
+### Drobo B800i & Drobo Elite
+
+[Install Guide for the ATTO iSCSI initiator](https://github.com/dhomas1/DroboApps/releases/download/B800i-EliteFirmware/Using-ATTO-iSCSI-with-Drobo.pdf)
+
+|Version|Link|Release Notes|
+|---|------|------|
+|2.0.6|[Download  ⤓](https://github.com/dhomas1/DroboApps/releases/download/B800i-EliteFirmware/Drobo-B800i-Elite-firmware-2.0.6.zip)|[Download  ⤓](https://github.com/dhomas1/DroboApps/releases/download/B800i-EliteFirmware/Drobo-B800i-Elite-release-notes-firmware-2.0.6.pdf)|
+|2.0.5|[Download  ⤓](https://github.com/dhomas1/DroboApps/releases/download/B800i-EliteFirmware/Drobo-B800i-Elite-firmware-2.0.5.zip)|[Download  ⤓](https://github.com/dhomas1/DroboApps/releases/download/B800i-EliteFirmware/Drobo-B800i-Elite-release-notes-firmware-2.0.5.pdf)|
