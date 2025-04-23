@@ -95,3 +95,16 @@ These are all the versions of Drobo Dashboard for Windows and Mac I could find a
 |Version|Link|Release Notes|
 |---|------|------|
 |1.4.2|[Download  ⤓](https://github.com/dhomas1/DroboApps/releases/download/Gen2Firmware/Drobo-Gen2-firmware-1.4.2.zip)|[Download  ⤓](https://github.com/dhomas1/DroboApps/releases/download/Gen2Firmware/Drobo-Gen2-release-notes-firmware-1.4.2.pdf)
+
+### Drobo (3rd Gen)
+|Version|Link|Release Notes|
+|---|------|------|
+|4.2.3|[Download  ⤓](https://github.com/dhomas1/DroboApps/releases/download/Gen3Firmware/Drobo-Gen3-firmware-4.2.3.zip)|[Download  ⤓](https://github.com/dhomas1/DroboApps/releases/download/Gen3Firmware/Drobo-Gen3-release-notes-firmware-Drobo-4.2.3.pdf)|
+|4.1.2|-|[Download  ⤓](https://github.com/dhomas1/DroboApps/releases/download/Gen3Firmware/Drobo-Gen3-release-notes-firmware-Drobo-4.1.2.pdf)|
+|4.1.1|-|[Download  ⤓](https://github.com/dhomas1/DroboApps/releases/download/Gen3Firmware/Drobo-Gen3-release-notes-firmware-Drobo-4.1.1.pdf)|
+|3.5.5|[Download  ⤓](https://github.com/dhomas1/DroboApps/releases/download/Gen3Firmware/Drobo-Gen3-firmware-3.5.5.zip)|[Download  ⤓](https://github.com/dhomas1/DroboApps/releases/download/Gen3Firmware/Drobo-Gen3-release-notes-firmware-Drobo-3.5.5.pdf)|
+|3.2.2|-|[Download  ⤓](https://github.com/dhomas1/DroboApps/releases/download/Gen3Firmware/Drobo-Gen3-release-notes-firmware-Drobo-3.2.2.pdf)|
+|3.2.1|-|[Download  ⤓](https://github.com/dhomas1/DroboApps/releases/download/Gen3Firmware/Drobo-Gen3-release-notes-firmware-Drobo-3.2.1.pdf)|
+|3.2.0|-|[Download  ⤓](https://github.com/dhomas1/DroboApps/releases/download/Gen3Firmware/Drobo-Gen3-release-notes-firmware-Drobo-3.2.0.pdf)|
+|3.1.1|-|[Download  ⤓](https://github.com/dhomas1/DroboApps/releases/download/Gen3Firmware/Drobo-Gen3-release-notes-firmware-Drobo-3.1.1.pdf)|
+|3.1.0|-|[Download  ⤓](https://github.com/dhomas1/DroboApps/releases/download/Gen3Firmware/Drobo-Gen3-release-notes-firmware-Drobo-3.1.0.pdf)|
