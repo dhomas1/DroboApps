@@ -212,12 +212,13 @@ Please note: Firmware versions 4.3.1 and 4.3.0 were pulled from circulation by D
 [Drobo B810i User Guide](https://github.com/dhomas1/DroboApps/releases/download/B810iFirmware/Drobo-B810i-getting-started-guide-en.pdf)
 [Install Guide for the ATTO iSCSI initiator](https://github.com/dhomas1/DroboApps/releases/download/B810iFirmware/Using-ATTO-iSCSI-with-Drobo.pdf)
 
+Please note: Firmware version 2.0.6 was sourced from a site other than Drobo's. I could not find an official release of this version. I am including it just in case, but I would not use it. I would instead stick to version 2.0.1.
+
 |Version|Link|Release Notes|
 |---|------|------|
-|2.0.6|[Download  ⤓](https://github.com/dhomas1/DroboApps/releases/download/B810iFirmware/Drobo-B810i-firmware-2.0.6.zip)|-|
 |2.0.1|[Download  ⤓](https://github.com/dhomas1/DroboApps/releases/download/B810iFirmware/Drobo-B810i-firmware-2.0.1.zip)|[Download  ⤓](https://github.com/dhomas1/DroboApps/releases/download/B810iFirmware/Drobo-B810i-release-notes-firmware-2.0.1.pdf)|
 |2.0.0|[Download  ⤓](https://github.com/dhomas1/DroboApps/releases/download/B810iFirmware/Drobo-B810i-firmware-2.0.0.zip)|[Download  ⤓](https://github.com/dhomas1/DroboApps/releases/download/B810iFirmware/Drobo-B810i-release-notes-firmware-2.0.0.pdf)|
 |1.3.5|[Download  ⤓](https://github.com/dhomas1/DroboApps/releases/download/B810iFirmware/Drobo-B810i-firmware-1.3.5.zip)|[Download  ⤓](https://github.com/dhomas1/DroboApps/releases/download/B810iFirmware/Drobo-B810i-release-notes-firmware-1.3.5.pdf)|
 |1.3.3|[Download  ⤓](https://github.com/dhomas1/DroboApps/releases/download/B810iFirmware/Drobo-B810i-firmware-1.3.3.zip)|[Download  ⤓](https://github.com/dhomas1/DroboApps/releases/download/B810iFirmware/Drobo-B810i-release-notes-firmware-1.3.3.pdf)|
 |1.3.1|[Download  ⤓](https://github.com/dhomas1/DroboApps/releases/download/B810iFirmware/Drobo-B810i-firmware-1.3.1.zip)|[Download  ⤓](https://github.com/dhomas1/DroboApps/releases/download/B810iFirmware/Drobo-B810i-release-notes-firmware-1.3.1.pdf)|
-
+|2.0.6|[Download  ⤓](https://github.com/dhomas1/DroboApps/releases/download/B810iFirmware/Drobo-B810i-firmware-2.0.6.zip)|-|
