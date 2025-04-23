@@ -92,3 +92,6 @@ These are all the versions of Drobo Dashboard for Windows and Mac I could find a
 
 ## Drobo Firmware
 ### Drobo (2nd Gen)
+|Version|Link|Release Notes|
+|---|------|------|
+|1.4.2|[Download  ⤓](https://github.com/dhomas1/DroboApps/releases/download/Gen2Firmware/Drobo-Gen2-firmware-1.4.2.zip)|[Download  ⤓](https://github.com/dhomas1/DroboApps/releases/download/Gen2Firmware/Drobo-Gen2-release-notes-firmware-1.4.2.pdf)
