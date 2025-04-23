@@ -248,3 +248,9 @@ Please note: Similarly to the Drobo 5N & 5N2, firmware versions 4.3.1 and 4.3.0 
 |1.2.1|-|[Download  ⤓](https://github.com/dhomas1/DroboApps/releases/download/B1200iFirmware/Drobo-B1200i-release-notes-firmware-1.2.1.pdf)|
 |1.2.0|[Download  ⤓](https://github.com/dhomas1/DroboApps/releases/download/B1200iFirmware/Drobo-B1200i-firmware-1.2.0.zip)|[Download  ⤓](https://github.com/dhomas1/DroboApps/releases/download/B1200iFirmware/Drobo-B1200i-release-notes-firmware-1.2.0.pdf)|
 |1.1.4|-|[Download  ⤓](https://github.com/dhomas1/DroboApps/releases/download/B1200iFirmware/Drobo-B1200i-release-notes-firmware-1.1.4.pdf)|
+
+### DroboFS
+
+|Version|Link|Release Notes|
+|---|------|------|
+|1.2.7|[Download  ⤓](https://github.com/dhomas1/DroboApps/releases/download/DroboFSFirmware/Drobo-FS-firmware-1.2.7.zip)|[Download  ⤓](https://github.com/dhomas1/DroboApps/releases/download/DroboFSFirmware/Drobo-FS-release-notes-firmware-1.2.7.pdf)|
