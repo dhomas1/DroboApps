@@ -167,3 +167,17 @@ Please note: Firmware versions 4.3.1 and 4.3.0 were pulled from circulation by D
 |3.1.1|[Download  ⤓](https://github.com/dhomas1/DroboApps/releases/download/5NFirmware/Drobo-5N-firmware-3.1.1.zip)|[Download  ⤓](https://github.com/dhomas1/DroboApps/releases/download/5NFirmware/Drobo-5N-release-notes-firmware-3.1.1.pdf)|
 |4.3.0|[Download  ⤓](https://github.com/dhomas1/DroboApps/releases/download/5NFirmware/Drobo-5N-firmware-4.3.0.zip)|[Download  ⤓](https://github.com/dhomas1/DroboApps/releases/download/5NFirmware/Drobo-5N-release-notes-firmware-4.3.0.pdf)|
 |4.3.1|[Download  ⤓](https://github.com/dhomas1/DroboApps/releases/download/5NFirmware/Drobo-5N-firmware-4.3.1.zip)|[Download  ⤓](https://github.com/dhomas1/DroboApps/releases/download/5NFirmware/Drobo-5N-release-notes-firmware-4.3.1.pdf)|
+
+### Drobo 5N2
+
+[Drobo 5N2 User Guide](https://github.com/dhomas1/DroboApps/releases/download/5N2Firmware/Drobo-5N2-user-guide-en.pdf)
+
+Please note: Firmware versions 4.3.1 and 4.3.0 were pulled from circulation by Drobo engineers shortly after release due to some user-reported issues. They were supposed to be re-released, but Drobo went bankrupt before a fixed could be produced. It is recommended to use the last known good firmware, 4.2.2
+
+|Version|Link|Release Notes|
+|---|------|------|
+|4.2.2|[Download  ⤓](https://github.com/dhomas1/DroboApps/releases/download/5N2Firmware/Drobo-5N2-firmware-4.2.2.zip)|[Download  ⤓](https://github.com/dhomas1/DroboApps/releases/download/5N2Firmware/Drobo-5N2-release-notes-firmware-4.2.2.pdf)|
+|4.1.4|-|[Download  ⤓](https://github.com/dhomas1/DroboApps/releases/download/5N2Firmware/Drobo-5N2-release-notes-firmware-4.1.4.pdf)|
+|4.0.2|[Download  ⤓](https://github.com/dhomas1/DroboApps/releases/download/5N2Firmware/Drobo-5N2-firmware-4.0.2.zip)|[Download  ⤓](https://github.com/dhomas1/DroboApps/releases/download/5N2Firmware/Drobo-5N2-release-notes-firmware-4.0.2.pdf)|
+|4.3.1|[Download  ⤓](https://github.com/dhomas1/DroboApps/releases/download/5N2Firmware/Drobo-5N2-firmware-4.3.1.zip)|[Download  ⤓](https://github.com/dhomas1/DroboApps/releases/download/5N2Firmware/Drobo-5N2-release-notes-firmware-4.3.1.pdf)|
+|4.3.0|[Download  ⤓](https://github.com/dhomas1/DroboApps/releases/download/5N2Firmware/Drobo-5N2-firmware-4.3.0.zip)|[Download  ⤓](https://github.com/dhomas1/DroboApps/releases/download/5N2Firmware/Drobo-5N2-release-notes-firmware-4.3.0.pdf)|
