@@ -63,7 +63,11 @@ wsdd
 
 ## Drobo Dashboard Releases
 
-These are all the versions of Drobo Dashboard for Windows and Mac I could find across the web, along with their release notes.
+These are all the versions of Drobo Dashboard for Windows and Mac I could find across the web, along with their release notes. 
+Interesting notes: 
+Version 2.6.2 for Mac was the final version that includes ATTOs iSCSI initiator.
+Version 1.8.4 was the final version released alongside Drobo Gen 1 (newer versions of Dashboard may still work).
+
 
 |Version|Windows|Mac|Release Notes|
 |---|------|------|------|
