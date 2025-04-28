@@ -90,6 +90,7 @@ These are all the versions of Drobo Dashboard for Windows and Mac I could find a
 |2.6.3|–|[Download  ⤓](https://github.com/dhomas1/DroboApps/releases/download/DroboDashboard/Drobo-Dashboard-2.6.3.dmg)|[Download  ⤓](https://github.com/dhomas1/DroboApps/releases/download/DroboDashboard/Drobo-Dashboard-release-notes-2.6.3.pdf)|
 |2.6.2|[Download  ⤓](https://github.com/dhomas1/DroboApps/releases/download/DroboDashboard/Drobo-Dashboard-2.6.2.exe)|[Download  ⤓](https://github.com/dhomas1/DroboApps/releases/download/DroboDashboard/Drobo-Dashboard-2.6.2.dmg)|[Download  ⤓](https://github.com/dhomas1/DroboApps/releases/download/DroboDashboard/Drobo-Dashboard-release-notes-2.6.2.pdf)|
 |2.5.3|[Download  ⤓](https://github.com/dhomas1/DroboApps/releases/download/DroboDashboard/Drobo-Dashboard-2.5.3.exe)|[Download  ⤓](https://github.com/dhomas1/DroboApps/releases/download/DroboDashboard/Drobo-Dashboard-2.5.3.dmg)|[Download  ⤓](https://github.com/dhomas1/DroboApps/releases/download/DroboDashboard/Drobo-Dashboard-release-notes-2.5.3.pdf)|
+|1.8.4|[Download  ⤓](https://github.com/dhomas1/DroboApps/releases/download/DroboDashboard/Drobo-Dashboard-1.8.4.exe)|[Download  ⤓](https://github.com/dhomas1/DroboApps/releases/download/DroboDashboard/Drobo-Dashboard-1.8.4.dmg)|[Download  ⤓](https://github.com/dhomas1/DroboApps/releases/download/DroboDashboard/Drobo-Dashboard-release-notes-1.8.4.pdf)|
 
 ## Drobo Firmware
 ### Drobo (2nd Gen)
