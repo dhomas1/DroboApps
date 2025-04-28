@@ -65,8 +65,10 @@ wsdd
 
 These are all the versions of Drobo Dashboard for Windows and Mac I could find across the web, along with their release notes. 
 Interesting notes: 
+Version 3.6.1 was the final release for Mac (no Windows release of this version exists). It added support for Apple Silicon and still works on modern MacOS. 
+Version 3.5.0 was the final version for Windows. It works on Windows 11.
 Version 2.6.2 for Mac was the final version that includes ATTOs iSCSI initiator.
-Version 1.8.4 was the final version released alongside Drobo Gen 1 (newer versions of Dashboard may still work).
+Version 1.8.4 was the final version released alongside Drobo Gen 1 (newer versions of Dashboard may still work). Might also be useful for DroboShare (aka Sled). 
 
 
 |Version|Windows|Mac|Release Notes|
