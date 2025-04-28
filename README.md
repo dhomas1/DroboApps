@@ -116,11 +116,11 @@ These are all the versions of Drobo Dashboard for Windows and Mac I could find a
 |Version|Link|Release Notes|
 |---|------|------|
 |3.5.5|[Download  ⤓](https://github.com/dhomas1/DroboApps/releases/download/MiniFirmware/Drobo-Mini-firmware-3.5.5.zip)|[Download  ⤓](https://github.com/dhomas1/DroboApps/releases/download/MiniFirmware/Drobo-Mini-release-notes-firmware-3.5.5.pdf)|
-|3.5.4|[Download  ⤓](https://github.com/dhomas1/DroboApps/releases/download/MiniFirmware/Drobo-Mini-firmware-3.5.4.zip)|-|
-|3.5.2|[Download  ⤓](https://github.com/dhomas1/DroboApps/releases/download/MiniFirmware/Drobo-Mini-firmware-3.5.2.zip)|-|
-|3.5.1|[Download  ⤓](https://github.com/dhomas1/DroboApps/releases/download/MiniFirmware/Drobo-Mini-firmware-3.5.1.zip)|-|
-|3.5.0|[Download  ⤓](https://github.com/dhomas1/DroboApps/releases/download/MiniFirmware/Drobo-Mini-firmware-3.5.0.zip)|-|
-|3.2.2|-|[Download  ⤓](https://github.com/dhomas1/DroboApps/releases/download/MiniFirmware/Drobo-Mini-release-notes-firmware-3.2.2.pdf)|
+|3.5.4|[Download  ⤓](https://github.com/dhomas1/DroboApps/releases/download/MiniFirmware/Drobo-Mini-firmware-3.5.4.zip)|[Download  ⤓](https://github.com/dhomas1/DroboApps/releases/download/MiniFirmware/Drobo-Mini-release-notes-firmware-3.5.4.pdf)|
+|3.5.2|[Download  ⤓](https://github.com/dhomas1/DroboApps/releases/download/MiniFirmware/Drobo-Mini-firmware-3.5.2.zip)|[Download  ⤓](https://github.com/dhomas1/DroboApps/releases/download/MiniFirmware/Drobo-Mini-release-notes-firmware-3.5.2.pdf)|
+|3.5.1|[Download  ⤓](https://github.com/dhomas1/DroboApps/releases/download/MiniFirmware/Drobo-Mini-firmware-3.5.1.zip)|[Download  ⤓](https://github.com/dhomas1/DroboApps/releases/download/MiniFirmware/Drobo-Mini-release-notes-firmware-3.5.1.pdf)|
+|3.5.0|[Download  ⤓](https://github.com/dhomas1/DroboApps/releases/download/MiniFirmware/Drobo-Mini-firmware-3.5.0.zip)|[Download  ⤓](https://github.com/dhomas1/DroboApps/releases/download/MiniFirmware/Drobo-Mini-release-notes-firmware-3.5.0.pdf)|
+|3.2.2|[Download  ⤓](https://github.com/dhomas1/DroboApps/releases/download/MiniFirmware/Drobo-Mini-firmware-3.2.2.zip)|[Download  ⤓](https://github.com/dhomas1/DroboApps/releases/download/MiniFirmware/Drobo-Mini-release-notes-firmware-3.2.2.pdf)|
 |3.2.1|[Download  ⤓](https://github.com/dhomas1/DroboApps/releases/download/MiniFirmware/Drobo-Mini-firmware-3.2.1.zip)|[Download  ⤓](https://github.com/dhomas1/DroboApps/releases/download/MiniFirmware/Drobo-Mini-release-notes-firmware-3.2.1.pdf)|
 |3.2.0|[Download  ⤓](https://github.com/dhomas1/DroboApps/releases/download/MiniFirmware/Drobo-Mini-firmware-3.2.0.zip)|[Download  ⤓](https://github.com/dhomas1/DroboApps/releases/download/MiniFirmware/Drobo-Mini-release-notes-firmware-3.2.0.pdf)|
 |3.1.1|[Download  ⤓](https://github.com/dhomas1/DroboApps/releases/download/MiniFirmware/Drobo-Mini-firmware-3.1.1.zip)|[Download  ⤓](https://github.com/dhomas1/DroboApps/releases/download/MiniFirmware/Drobo-Mini-release-notes-firmware-3.1.1.pdf)|
