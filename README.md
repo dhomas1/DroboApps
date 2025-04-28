@@ -167,14 +167,14 @@ Please note: Firmware versions 4.3.1 and 4.3.0 were pulled from circulation by D
 |Version|Link|Release Notes|
 |---|------|------|
 |4.2.1|[Download  ⤓](https://github.com/dhomas1/DroboApps/releases/download/5NFirmware/Drobo-5N-firmware-4.2.1.zip)|[Download  ⤓](https://github.com/dhomas1/DroboApps/releases/download/5NFirmware/Drobo-5N-release-notes-firmware-4.2.1.pdf)|
-|4.1.2|[Download  ⤓](https://github.com/dhomas1/DroboApps/releases/download/5NFirmware/Drobo-5N-firmware-4.1.2.zip)|-|
-|3.5.13|[Download  ⤓](https://github.com/dhomas1/DroboApps/releases/download/5NFirmware/Drobo-5N-firmware-3.5.13.zip)|-|
+|4.1.2|[Download  ⤓](https://github.com/dhomas1/DroboApps/releases/download/5NFirmware/Drobo-5N-firmware-4.1.2.zip)|[Download  ⤓](https://github.com/dhomas1/DroboApps/releases/download/5NFirmware/Drobo-5N-release-notes-firmware-4.1.2.pdf)|
+|3.5.13|[Download  ⤓](https://github.com/dhomas1/DroboApps/releases/download/5NFirmware/Drobo-5N-firmware-3.5.13.zip)|[Download  ⤓](https://github.com/dhomas1/DroboApps/releases/download/5NFirmware/Drobo-5N-release-notes-firmware-3.5.13.pdf)|
 |3.5.12|[Download  ⤓](https://github.com/dhomas1/DroboApps/releases/download/5NFirmware/Drobo-5N-firmware-3.5.12.zip)|[Download  ⤓](https://github.com/dhomas1/DroboApps/releases/download/5NFirmware/Drobo-5N-release-notes-firmware-3.5.12.pdf)|
 |3.5.7|[Download  ⤓](https://github.com/dhomas1/DroboApps/releases/download/5NFirmware/Drobo-5N-firmware-3.5.7.zip)|[Download  ⤓](https://github.com/dhomas1/DroboApps/releases/download/5NFirmware/Drobo-5N-release-notes-firmware-3.5.7.pdf)|
 |3.5.6|[Download  ⤓](https://github.com/dhomas1/DroboApps/releases/download/5NFirmware/Drobo-5N-firmware-3.5.6.zip)|[Download  ⤓](https://github.com/dhomas1/DroboApps/releases/download/5NFirmware/Drobo-5N-release-notes-firmware-3.5.6.pdf)|
 |3.3.0|[Download  ⤓](https://github.com/dhomas1/DroboApps/releases/download/5NFirmware/Drobo-5N-firmware-3.3.0.zip)|[Download  ⤓](https://github.com/dhomas1/DroboApps/releases/download/5NFirmware/Drobo-5N-release-notes-firmware-3.3.0.pdf)|
 |3.2.3|[Download  ⤓](https://github.com/dhomas1/DroboApps/releases/download/5NFirmware/Drobo-5N-firmware-3.2.3.zip)|[Download  ⤓](https://github.com/dhomas1/DroboApps/releases/download/5NFirmware/Drobo-5N-release-notes-firmware-3.2.3.pdf)|
-|3.2.2|-|[Download  ⤓](https://github.com/dhomas1/DroboApps/releases/download/5NFirmware/Drobo-5N-release-notes-firmware-3.2.2.pdf)|
+|3.2.2|[Download  ⤓](https://github.com/dhomas1/DroboApps/releases/download/5NFirmware/Drobo-5N-firmware-3.2.2.zip)|[Download  ⤓](https://github.com/dhomas1/DroboApps/releases/download/5NFirmware/Drobo-5N-release-notes-firmware-3.2.2.pdf)|
 |3.2.1|[Download  ⤓](https://github.com/dhomas1/DroboApps/releases/download/5NFirmware/Drobo-5N-firmware-3.2.1.zip)|[Download  ⤓](https://github.com/dhomas1/DroboApps/releases/download/5NFirmware/Drobo-5N-release-notes-firmware-3.2.1.pdf)|
 |3.2.0|[Download  ⤓](https://github.com/dhomas1/DroboApps/releases/download/5NFirmware/Drobo-5N-firmware-3.2.0.zip)|[Download  ⤓](https://github.com/dhomas1/DroboApps/releases/download/5NFirmware/Drobo-5N-release-notes-firmware-3.2.0.pdf)|
 |3.1.1|[Download  ⤓](https://github.com/dhomas1/DroboApps/releases/download/5NFirmware/Drobo-5N-firmware-3.1.1.zip)|[Download  ⤓](https://github.com/dhomas1/DroboApps/releases/download/5NFirmware/Drobo-5N-release-notes-firmware-3.1.1.pdf)|
