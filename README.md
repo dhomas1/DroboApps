@@ -227,7 +227,6 @@ Please note: Firmware versions 4.3.1 and 4.3.0 were pulled from circulation by D
 
 |Version|Link|Release Notes|
 |---|------|------|
-|2.0.6|[Download  ⤓](https://github.com/dhomas1/DroboApps/releases/download/B810iFirmware/Drobo-B810i-firmware-2.0.6.zip)|[Download  ⤓](https://github.com/dhomas1/DroboApps/releases/download/B810iFirmware/Drobo-B810i-release-notes-firmware-2.0.6.pdf)|
 |2.0.1|[Download  ⤓](https://github.com/dhomas1/DroboApps/releases/download/B810iFirmware/Drobo-B810i-firmware-2.0.1.zip)|[Download  ⤓](https://github.com/dhomas1/DroboApps/releases/download/B810iFirmware/Drobo-B810i-release-notes-firmware-2.0.1.pdf)|
 |2.0.0|[Download  ⤓](https://github.com/dhomas1/DroboApps/releases/download/B810iFirmware/Drobo-B810i-firmware-2.0.0.zip)|[Download  ⤓](https://github.com/dhomas1/DroboApps/releases/download/B810iFirmware/Drobo-B810i-release-notes-firmware-2.0.0.pdf)|
 |1.3.5|[Download  ⤓](https://github.com/dhomas1/DroboApps/releases/download/B810iFirmware/Drobo-B810i-firmware-1.3.5.zip)|[Download  ⤓](https://github.com/dhomas1/DroboApps/releases/download/B810iFirmware/Drobo-B810i-release-notes-firmware-1.3.5.pdf)|
