@@ -144,7 +144,7 @@ Version 1.8.4 was the final version released alongside Drobo Gen 1 (newer versio
 |3.5.4|[Download  ⤓](https://github.com/dhomas1/DroboApps/releases/download/5CFirmware/Drobo-5C-firmware-3.5.4.zip)|[Download  ⤓](https://github.com/dhomas1/DroboApps/releases/download/5CFirmware/Drobo-5C-release-notes-firmware-3.5.4.pdf)|
 |3.5.3|-|[Download  ⤓](https://github.com/dhomas1/DroboApps/releases/download/5CFirmware/Drobo-5C-release-notes-firmware-3.5.3.pdf)|
 
-### Drobo 5D
+### Drobo 5D / 5Dt
 |Version|Link|Release Notes|
 |---|------|------|
 |4.2.3|[Download  ⤓](https://github.com/dhomas1/DroboApps/releases/download/5DFirmware/Drobo-5D-firmware-4.2.3.zip)|[Download  ⤓](https://github.com/dhomas1/DroboApps/releases/download/5DFirmware/Drobo-5D-release-notes-firmware-4.2.3.pdf)|
