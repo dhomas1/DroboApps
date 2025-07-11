@@ -146,7 +146,7 @@ Version 1.8.4 was the final version released alongside Drobo Gen 1 (newer versio
 
 ### Drobo 5D / 5Dt
 
-Please note: The Drobo 5D was sometimes also referred to as the 5D mini and some of the firmware files and release notes were originally released with this name. The 5Dt is a refreshed version of the 5D which adds Thunderbolt 2.0, instead of the 5D's Thunderbolt 1.0. All three models, 5D, 5D mini, and 5Dt, all use the same firmware. For consistency's sake, I named all files with the '5D' tag.
+Please note: The Drobo 5D was sometimes also referred to as the 5D mini and some of the firmware files and release notes were originally released with this name. The 5Dt is a refreshed version of the 5D which adds Thunderbolt 2.0, instead of the 5D's Thunderbolt 1.0, as well as an included 128GB mSATA SSD (the SSD was optional and sold separately on the 5D). All three models (5D, 5D mini, and 5Dt)  use the same firmware. For consistency's sake, I named all files with the '5D' tag.
 
 |Version|Link|Release Notes|
 |---|------|------|
