@@ -145,6 +145,9 @@ Version 1.8.4 was the final version released alongside Drobo Gen 1 (newer versio
 |3.5.3|-|[Download  ⤓](https://github.com/dhomas1/DroboApps/releases/download/5CFirmware/Drobo-5C-release-notes-firmware-3.5.3.pdf)|
 
 ### Drobo 5D / 5Dt
+
+Please note: The Drobo 5D was sometimes also referred to as the 5D mini and some of the firmware files and release notes were originally released with this name. The 5Dt is a refreshed version of the 5D which adds Thunderbolt 2.0, instead of the 5D's Thunderbolt 1.0. All three models, 5D, 5D mini, and 5Dt, all use the same firmware. For consistency's sake, I named all files with the '5D' tag.
+
 |Version|Link|Release Notes|
 |---|------|------|
 |4.2.3|[Download  ⤓](https://github.com/dhomas1/DroboApps/releases/download/5DFirmware/Drobo-5D-firmware-4.2.3.zip)|[Download  ⤓](https://github.com/dhomas1/DroboApps/releases/download/5DFirmware/Drobo-5D-release-notes-firmware-4.2.3.pdf)|
