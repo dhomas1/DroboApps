@@ -99,6 +99,38 @@ Version 1.8.4 was the final version released alongside Drobo Gen 1 (newer versio
 |1.8.4|[Download  ⤓](https://github.com/dhomas1/DroboApps/releases/download/DroboDashboard/Drobo-Dashboard-1.8.4.exe)|[Download  ⤓](https://github.com/dhomas1/DroboApps/releases/download/DroboDashboard/Drobo-Dashboard-1.8.4.dmg)|[Download  ⤓](https://github.com/dhomas1/DroboApps/releases/download/DroboDashboard/Drobo-Dashboard-release-notes-1.8.4.pdf)|
 
 ## Drobo Firmware
+
+Instructions on Manually Updating Firmware (adapted from the now defunct Drobo Website)
+
+1.   Download the appropriate firmware file for your Drobo product from this repository, saving it to a folder that is not located on your Drobo device. If there is only one firmware file (a zip file), this file functions for both the Mac and Windows-based computers.
+
+Please ensure that you have read and write privileges to this folder.
+
+2.   Launch Drobo Dashboard and select the appropriate Drobo device from the All Drobos page. Also, if applicable, log in to this Drobo device.
+
+3.   Click the Tools option on the Navigation menu for the selected Drobo device to open the Tools page.
+
+4.   In the Software Updates area, click the Manual Update option.
+
+![Software_Updates](https://github.com/user-attachments/assets/4cc9135a-6075-44a5-8c7d-553c82cafb80)
+
+A warning message opens, asking you to complete or stop any data transfers.
+
+![Tools_Software_Update_Manually_Warning](https://github.com/user-attachments/assets/f11eb33f-4b72-4b9f-bbeb-abe503ecd142)
+
+5.   Ensure that the Drobo device is not actively transferring data (blinking yellow and green), and then click the OK button.
+
+A dialog box opens, asking you to locate the zip file on your computer.
+
+6.   Please do so and then click the Open or OK button.
+
+Drobo installs the firmware. When finished, a message opens, asking you to reboot your Drobo device to complete the installation.
+
+7.   Click the Yes button.
+
+Drobo shuts down and restarts after the new firmware is installed.
+
+
 ### Drobo (2nd Gen)
 |Version|Link|Release Notes|
 |---|------|------|
