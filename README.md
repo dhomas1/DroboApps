@@ -130,7 +130,7 @@ Drobo installs the firmware. When finished, a message opens, asking you to reboo
 
 Drobo shuts down and restarts after the new firmware is installed.
 
-Firmware files
+## Firmware files
 
 ### Drobo (2nd Gen)
 |Version|Link|Release Notes|
