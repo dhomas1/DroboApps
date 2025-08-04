@@ -246,6 +246,7 @@ Please note: Firmware versions 4.3.1 and 4.3.0 were pulled from circulation by D
 |4.2.3|[Download  ⤓](https://github.com/dhomas1/DroboApps/releases/download/8DFirmware/Drobo-8D-firmware-4.2.3.zip)|[Download  ⤓](https://github.com/dhomas1/DroboApps/releases/download/8DFirmware/Drobo-8D-release-notes-firmware-4.2.3.pdf)|
 
 ### Drobo B800FS & DroboPro FS
+[DroboPro FS User Guide](https://github.com/dhomas1/DroboApps/releases/download/DroboFSFirmware/UserGuide.-.Drobo.FS.pdf)
 
 |Version|Link|Release Notes|
 |---|------|------|
@@ -302,6 +303,8 @@ Please note: Similarly to the Drobo 5N & 5N2, firmware versions 4.3.1 and 4.3.0 
 |1.1.4|-|[Download  ⤓](https://github.com/dhomas1/DroboApps/releases/download/B1200iFirmware/Drobo-B1200i-release-notes-firmware-1.1.4.pdf)|
 
 ### DroboFS
+
+[Drobo FS User Guide](https://github.com/dhomas1/DroboApps/releases/download/DroboFSFirmware/UserGuide.-.Drobo.FS.pdf)
 
 |Version|Link|Release Notes|
 |---|------|------|
